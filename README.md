@@ -1,7 +1,9 @@
-# Gmarket_MySQL
 
 
-## Gmarket 베스트 아이템 종목들을 카테고리별로 데이터베이스에 저장
+
+# 지마켓 베스트 아이템 종목들을 카테고리별로 데이터베이스에 저장
+
+## Schema
 
 ### items
 |Field|Type|Null|Key|Default|Extra| 
